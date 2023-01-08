@@ -1,3 +1,4 @@
+#  this code is part of the exercise
 import turtle
 import cv2 as cv
 import numpy as np
